@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "MeuApp",
+  "short_name": "MeuApp",
+  "version": "com.phonegap.helloworld",
+  "description": "Exemplo de aplicativo com Apache Cordova.",
+  "author": "Ben-Hur Varriano",
+  "icons": [],
+  "start_url": "index.html"
+}
